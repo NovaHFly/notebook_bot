@@ -1,0 +1,5 @@
+*.egg-info
+
+# Privated files, not for repo saving
+__*
+!__init__.py
